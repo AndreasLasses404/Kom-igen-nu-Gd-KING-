@@ -29,10 +29,10 @@ if(strstr($_SERVER['SERVER_NAME'], 'king.local'))
 }
 else 
 {
-    define( 'DB_NAME', 'dbq98pkzrv9je9' );
-    define( 'DB_USER', 'u52jhxux9qdv2' );
-    define( 'DB_PASSWORD', 'Hejalla1234' );
-    define( 'DB_HOST', 'localhost' );
+    define( 'DB_NAME', 'db2vjn67669kpz' );
+    define( 'DB_USER', 'unkmgybq6axea' );
+    define( 'DB_PASSWORD', 'nukorvida' );
+    define( 'DB_HOST', '127.0.0.1' );
 }
 
 /** Database Charset to use in creating database tables. */
